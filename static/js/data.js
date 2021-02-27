@@ -999,4 +999,3 @@ var data = [{
     comments: "Bright orange object&#44 rapid speed and direction changes .."
   }
 ];
-© 2021 GitHub, Inc.
